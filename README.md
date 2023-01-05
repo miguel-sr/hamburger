@@ -1,20 +1,3 @@
 # CRUD - Make your Burger
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run serve 
-npm run backend
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Projeto feito com o objetivo de aprender mais sobre vue.js e como trabalhar com banco de dados no frontend.
